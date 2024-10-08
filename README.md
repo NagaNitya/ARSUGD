@@ -11,3 +11,5 @@ This project makes use of unsupervised machine learning techniques to classify d
 🔴 Not recommended for renting
 
 The parameters used to classify the areas include average temperature, propensity to flooding, security, connectivity, bachelor/family friendly etc.
+#
+The results are displayed on a Folium graph. See the deployment here: https://accomodationbasedongeolocation.streamlit.app/
