@@ -1,6 +1,6 @@
 ### Accomodation Recommendation System using Geolocational Data 🏠
 #
-Help students or working professionals find the best areas to look for accomodation, using this python-based stremlit application.
+Help students or working professionals find the best areas to look for accomodation, using this python-based streamlit application.
 #
 This project makes use of unsupervised machine learning techniques to classify different areas of a city into 3 categories:
 
